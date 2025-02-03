@@ -1,0 +1,11 @@
+{
+    "projects":[
+        {
+            "title": "WriteWave",
+            "imageUrl": "https://i.ibb.co/3YsmHwmg/Write-Wave.png",
+            "project_url": "https://writewave-frontend.onrender.com/",
+            "description": "A feature-rich blogging platform where users can write, edit, delete blogs, track progress, follow other writers, and engage with content through comments and likes. Built with Firebase authentication and a robust MERN stack.",
+            "tags": [ "react", "nodejs", "mongodb", "firebase", "express" ]
+        }
+    ]
+}
